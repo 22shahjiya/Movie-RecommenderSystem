@@ -28,6 +28,9 @@ The project uses a movie dataset containing information such as:
 - Crew
 - Overview
 
+Dataset :
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
 These features are combined to generate recommendations.
 
 ## ⚙️ Working
